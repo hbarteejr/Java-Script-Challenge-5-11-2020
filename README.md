@@ -1,1 +1,1 @@
-# Java-Script-Challenge 5 11 2020
+# Javascript-Challenge 5 11 2020
