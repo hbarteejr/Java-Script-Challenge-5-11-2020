@@ -1,4 +1,4 @@
-##JavaScript Challenge
+JavaScript Challenge
 
 In this project, the goal was to perform an automatic table and date search on Level One and to perform a multiple search category search on Level Two. 
 
